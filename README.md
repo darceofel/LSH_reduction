@@ -1,3 +1,2 @@
-# Using Locality Sensitive hashing (LSH) to reduce pytorch datasets without losing test accuracy
-
+# Using Locality Sensitive hashing (LSH) to reduce redudant datasets
 ##
